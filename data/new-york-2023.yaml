@@ -16,6 +16,7 @@ site:
   fullDescription: true
   location: Cockroach Labs
   googleMapsLink: https://maps.app.goo.gl/BzttXswQ9ttvRPG26
+  calendarLink: https://www.google.com/calendar/render?action=TEMPLATE&text=QueerJS+NY+2023&details=Local+NY+JavaScript+meetup+with+queer+speakers%21%0Ahttps%3A%2F%2Fqueerjs.org&location=Cockroach+Labs%0Ahttps%3A%2F%2Fmaps.app.goo.gl%2FBzttXswQ9ttvRPG26&dates=20231114T230000Z%2F20231115T013000Z
 speakers: []
 thanks: []
 sponsors:
