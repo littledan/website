@@ -1,0 +1,39 @@
+---
+info:
+  city: New York
+  link: new-york-2023
+  date: 11/18/23
+  hour: '18:00'
+  icon: icons/ny/ny.svg
+  iconHover: icons/ny/ny-hover.svg
+  hostIcon: icons/ny/cockroach-labs.png
+  hostName: Cockroach Labs
+  food: true
+  maxCapacity: 75
+  closeRSVP: false
+site:
+  cfp: true
+  fullDescription: true
+  location: Cockroach Labs
+  googleMapsLink: https://maps.app.goo.gl/BzttXswQ9ttvRPG26
+speakers: []
+thanks: []
+sponsors:
+  - link: https://techatbloomberg.com/
+    name: Bloomberg
+    reason: Food
+  - link: https://www.cockroachlabs.com
+    name: Cockroach Labs
+    reason: Space
+mainOrganizer:
+  - name: Daniel Ehrenberg
+    main: true
+    twitterHandle: littledan
+    githubLink: littledan
+    phoneNumber: '+14155496836'
+    email: dehrenberg@bloomberg.net
+  - name: Aydrian Howard
+    main: true
+    twitterHandle: itsaydrian
+    githubLink: aydrian
+    email: aydrian@cockroachlabs.com
